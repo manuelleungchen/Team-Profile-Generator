@@ -1,0 +1,19 @@
+body {
+    background-color: ghostwhite;
+}
+
+#team-heading {
+    background-color: wheat;
+    color: darkslategray;
+    font-family: 'Indie Flower';
+}
+
+.employee-card {
+    margin: 10px;
+    font-family: 'Texturina', serif;
+}
+
+.card-header {
+    background-color:lightgray;
+    font-family: 'Big Shoulders Inline Text', cursive;
+}
