@@ -5,7 +5,7 @@
 ## Description  
 This application generates a html file that ilustrate basic information about the members of a team based on user input from the command line. The command line input prompted are created using the npm module [Inquirer](https://www.npmjs.com/package/inquirer).
 
-![Screenshot]()
+![Screenshot](./assets/Team_Profile_Generator.png)
     
 ## Table of Contents   
 * [Installation](#installation)
@@ -28,7 +28,7 @@ This application generates a html file that ilustrate basic information about th
 * Answer questions for each team member when prompted.
 * Check the created html file on the output folder.
 
-For more details, please follow the [Demo Video]()
+For more details, please follow the [Demo Video](https://www.youtube.com/watch?v=08EHxEgu1kU)
 
 ## Credits  
 Developed by: 
